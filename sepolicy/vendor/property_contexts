@@ -10,5 +10,3 @@ persist.sys.fp.            u:object_r:vendor_fp_prop:s0
 sys.fp.goodix              u:object_r:vendor_fp_prop:s0
 sys.fp.vendor              u:object_r:vendor_fp_prop:s0
 
-# Dirac
-persist.audio.dirac.       u:object_r:dirac_prop:s0
